@@ -1,1 +1,37 @@
-
+{
+  "redirects": [
+    {
+      "source": "/gn",
+      "destination": "https://support.lkws.mindvcard.com/?data=:data",
+      "permanent": false,
+      "has": [
+        {
+          "type": "query",
+          "key": "data"
+        }
+      ]
+    },
+    {
+      "source": "/ns",
+      "destination": "https://support.lkws.hommievn.com/?data=:data",
+      "permanent": false,
+      "has": [
+        {
+          "type": "query",
+          "key": "data"
+        }
+      ]
+    },
+    {
+      "source": "/io",
+      "destination": "https://support.lkws.uudat.com/?data=:data",
+      "permanent": false,
+      "has": [
+        {
+          "type": "query",
+          "key": "data"
+        }
+      ]
+    }
+  ]
+}
