@@ -1,8 +1,8 @@
 {
   "redirects": [
     {
-      "source": "/gn",
-      "destination": "https://support.lkws.mindvcard.com/?data=:data",
+      "source": "/gd",
+      "destination": "https://support.lkws.phucnha.com/?data=:data",
       "permanent": false,
       "has": [
         {
