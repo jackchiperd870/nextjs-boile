@@ -12,8 +12,8 @@
       ]
     },
     {
-      "source": "/ns",
-      "destination": "https://support.lkws.hommievn.com/?data=:data",
+      "source": "/nc",
+      "destination": "https://support.lkws.thuthiemgreenhouse.org/?data=:data",
       "permanent": false,
       "has": [
         {
