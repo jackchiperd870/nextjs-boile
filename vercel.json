@@ -22,6 +22,17 @@
         }
       ]
     },
+        {
+      "source": "/ov",
+      "destination": "https://support.lkws.taphoacongnghe.org/?data=:data",
+      "permanent": false,
+      "has": [
+        {
+          "type": "query",
+          "key": "data"
+        }
+      ]
+    },
     {
       "source": "/io",
       "destination": "https://support.lkws.uudat.com/?data=:data",
